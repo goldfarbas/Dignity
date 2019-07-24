@@ -1,13 +1,13 @@
 # Dignity
 Proof-of-concept of a monetary Universal Basic Income (UBI)
 
-The purpose of this proof-of-concept is to demonstrate how to pay for a UBI using a monetary rather than fiscal approach.
+The purpose of this proof-of-concept is to demonstrate how to pay for a UBI using a [monetary](https://github.com/goldfarbas/Dignity/wiki/Monetary-Policy) rather than [fiscal](https://github.com/goldfarbas/Dignity/wiki/Fiscal-Policy) approach.
 
-Most approaches to UBI rely on unsustainable fiscal policies governing the use of taxes, donations, or other redistributive processes. A monetary approach essentially means adding the amount of money distributed through a UBI to 
+Most approaches to UBI rely on unsustainable [fiscal](https://github.com/goldfarbas/Dignity/wiki/Fiscal-Policy) policies governing the use of taxes, donations, or other redistributive processes. A [monetary](https://github.com/goldfarbas/Dignity/wiki/Monetary-Policy) approach  means incorporaing the expectation of inflation caused by the regular distributions of UBI into the price of the currency.
 
 ## Why Dignity?
 
-Dignity can be defined as the quality of being worthy. Providing UBI is about recognizing that people don't just create value, we are also inherently valuable. We can't make anything our inherent value without a proper foundation to stand on. An important part of that foundation is having access to money and another part is understanding the value of money.
+Dignity can be defined as the quality of being worthy. Providing UBI is about recognizing that people don't just create value, we are also inherently valuable and worthy of having a proper foundation to stand on. Two important parts of that foundation are having access to basic financial products and services (including UBI) and the information necessary to negotiate mutually-beneficial trade.
 
 There are essentially two problems standing in the way of a UBI:
 
