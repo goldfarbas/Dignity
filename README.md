@@ -11,8 +11,8 @@ Dignity can be defined as the quality of being worthy. Providing UBI is about re
 
 There are essentially two problems standing in the way of a UBI:
 
-1. How to make it universal?
-2. How to fund it in a sustainable manner?
+1. How to make it [universal](https://github.com/goldfarbas/Dignity/wiki/Universal)?
+2. How to fund it in a [sustainable](https://github.com/goldfarbas/Dignity/wiki/Sustainable) manner?
 
 ## Want to get involved?
 * We've got **[issues](https://github.com/goldfarbas/Dignity/issues)** for developing the proof-of-concept.
