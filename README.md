@@ -16,6 +16,12 @@ Two important parts of that foundation are having access to basic financial prod
 1. How to make it [universal](https://github.com/goldfarbas/Dignity/wiki/Universal)?
 2. How to fund it in a [sustainable](https://github.com/goldfarbas/Dignity/wiki/Sustainable) manner?
 
+## Roadmap
+
+1. Launch the Dignity (DGNT) token as a proof-of-concept to demonstrate how to pay for a UBI using [monetary](https://github.com/goldfarbas/Dignity/wiki/Monetary-Policy) rather than [fiscal](https://github.com/goldfarbas/Dignity/wiki/Fiscal-Policy) policy.
+2. Create a protocol for enabling [unique individuals](https://github.com/goldfarbas/Dignity/wiki/Universal#solving-the-double-claim-problem) to claim UBI
+3. Develop plans for future integrations
+
 ## Want to get involved?
 * We've got **[issues](https://github.com/goldfarbas/Dignity/issues)** for developing the proof-of-concept.
 * Help develop the roadmap to UBI in our **[wiki](https://github.com/goldfarbas/Dignity/wiki)**.
