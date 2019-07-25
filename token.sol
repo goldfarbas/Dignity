@@ -178,3 +178,15 @@ library SafeMath {
         c = a / b;
     }
 }
+
+/**
+     * Claim Tokens Method
+     */
+   if DignityToken(msg.sender) {
+     else {
+       _mint(msg.sender, 100);
+          }
+     if msg.sender > 1 week {
+       _mint(msg.sender, 100);
+          } 
+     }
