@@ -1,13 +1,13 @@
 # Dignity - The Roadmap to Universal Basic Income (UBI)
-Dignity consists of a :
+Dignity consists of a:
 
-1. [Repo](https://github.com/goldfarbas/Dignity) for developing a proof-of-concept of a [monetary](https://github.com/goldfarbas/Dignity/wiki/Monetary-Policy) UBI called the Dignity (DGNT) token and a 
+1. [Repo](https://github.com/goldfarbas/Dignity) for developing a proof-of-concept of a [monetary](https://github.com/goldfarbas/Dignity/wiki/Monetary-Policy) UBI called the [Dignity (DGNT) token](https://github.com/goldfarbas/Dignity/wiki/Dignity-(DGNT)), and a 
 
-2. [Wiki](https://github.com/goldfarbas/Dignity/wiki) exploring the problems that need to be solved in order to provide UBI and different approaches being taken to
-
-The purpose of this proof-of-concept is to demonstrate how to pay for a UBI using [monetary](https://github.com/goldfarbas/Dignity/wiki/Monetary-Policy) rather than [fiscal policy](https://github.com/goldfarbas/Dignity/wiki/Fiscal-Policy).
+2. [Wiki](https://github.com/goldfarbas/Dignity/wiki) exploring the problems that need to be solved in order to provide UBI and different approaches being taken to create UBI.
 
 ## The Dignity (DGNT) Token
+The purpose of this proof-of-concept is to demonstrate how to pay for a UBI using [monetary](https://github.com/goldfarbas/Dignity/wiki/Monetary-Policy) rather than [fiscal policy](https://github.com/goldfarbas/Dignity/wiki/Fiscal-Policy).
+
 Most approaches to UBI rely on unsustainable [fiscal policies](https://github.com/goldfarbas/Dignity/wiki/Fiscal-Policy) governing the use of taxes, donations, or other redistributive processes. Using [monetary policy](https://github.com/goldfarbas/Dignity/wiki/Monetary-Policy) means incorporating the expectation of inflation caused by the regular distributions of UBI into the price of the currency.
 
 ## Why Dignity?
@@ -24,7 +24,7 @@ Two important parts of that foundation are having access to basic financial prod
 Visit our [wiki](https://github.com/goldfarbas/Dignity/wiki) to learn and share information about different approaches to solving these problems.
 
 ## Roadmap
-1. Launch the Dignity (DGNT) token as a proof-of-concept to demonstrate how to pay for a UBI using [monetary](https://github.com/goldfarbas/Dignity/wiki/Monetary-Policy) rather than [fiscal](https://github.com/goldfarbas/Dignity/wiki/Fiscal-Policy) policy.
+1. Launch the [Dignity (DGNT) token](https://github.com/goldfarbas/Dignity/wiki/Dignity-(DGNT)) as a proof-of-concept of how to pay for UBI using [monetary](https://github.com/goldfarbas/Dignity/wiki/Monetary-Policy) rather than [fiscal](https://github.com/goldfarbas/Dignity/wiki/Fiscal-Policy) policy.
 
 2. Create a protocol for enabling [unique individuals](https://github.com/goldfarbas/Dignity/wiki/Universal#solving-the-double-claim-problem) to claim UBI
 
