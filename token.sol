@@ -14,16 +14,20 @@ interface tokenRecipient {
 }
 
 contract DignityToken is ERC20Interface {
+    using SafeMath for uint;
+
     // Public variables of the token
     string public name = "Dignity";
     string symbol = "DGNT";
     uint8 public decimals = 2;
     // 18 decimals is the strongly suggested default, avoid changing it
     uint256 public totalSupply;
+    uint256 public claimAmount;
 
     // This creates an array with all balances
     mapping (address => uint256) public balanceOf;
     mapping (address => mapping (address => uint256)) public allowance;
+    mapping (address => uint256) public claims;
 
     // This generates a public event on the blockchain that will notify clients
     event Transfer(address indexed from, address indexed to, uint256 value);
@@ -41,6 +45,20 @@ contract DignityToken is ERC20Interface {
     ) public {
         totalSupply = initialSupply * 10 ** uint256(decimals);  // Update total supply with the decimal amount
         balanceOf[msg.sender] = totalSupply;                // Give the creator all initial tokens
+    }
+
+    function claim() public returns(bool success){
+
+      //Check claims
+
+
+
+    }
+
+    function _mint() internal {
+      //increase total supply
+      totalSupply = totalSupply.add(claimAmount);
+      balanceOf[msg.sender] = claimAmount;
     }
 
     /**
@@ -178,15 +196,3 @@ library SafeMath {
         c = a / b;
     }
 }
-
-/**
-     * Claim Tokens Method
-     */
-   if DignityToken(msg.sender) {
-     else {
-       _mint(msg.sender, 100);
-          }
-     if msg.sender > 1 week {
-       _mint(msg.sender, 100);
-          } 
-     }
