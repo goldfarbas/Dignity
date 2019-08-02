@@ -28,7 +28,9 @@ Visit our [wiki](https://github.com/goldfarbas/Dignity/wiki) to learn and share 
 
 2. Create a protocol for enabling [unique individuals](https://github.com/goldfarbas/Dignity/wiki/Universal#solving-the-double-claim-problem) to claim UBI
 
-3. Develop [plans](https://github.com/goldfarbas/Dignity/issues) for future development of the project
+3. Identify projects working to provide [identification](https://github.com/goldfarbas/Dignity/wiki/Universal#providing-digital-identity-to-the-worlds-population), [mobile devices](https://github.com/goldfarbas/Dignity/wiki/Universal#equipping-the-global-population-with-smart-devices), and [internet access](https://github.com/goldfarbas/Dignity/wiki/Universal#providing-global-internet-access) to the global population.
+
+4. Develop [plans](https://github.com/goldfarbas/Dignity/issues) for the future development of UBI
 
 ## Want to get involved?
 * We've got [issues](https://github.com/goldfarbas/Dignity/issues) for developing the proof-of-concept.
