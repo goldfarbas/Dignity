@@ -15,11 +15,15 @@ Dignity can be defined as the quality of being worthy.
 
 Providing UBI is about recognizing that people don't just create value, we are also inherently valuable and worthy of having a proper foundation to stand on. 
 
-Two important parts of that foundation are having access to basic financial products and services (including UBI) and the information necessary to negotiate mutually-beneficial trade. There are essentially two problems standing in the way of a UBI:
+Two important parts of that foundation are having access to basic financial products and services (including UBI) and the information necessary to negotiate mutually-beneficial trade. There are a number of problems standing in the way of a UBI:
 
 1. How to make it [universal](https://github.com/goldfarbas/Dignity/wiki/Universal)?
 
 2. How to fund it in a [sustainable](https://github.com/goldfarbas/Dignity/wiki/Sustainable) manner?
+
+3. How to maximize the [security](https://github.com/goldfarbas/Dignity/wiki/Security) of participants?
+
+4. What constitutes ["basic"](https://github.com/goldfarbas/Dignity/wiki/Basic) income?
 
 Visit our [wiki](https://github.com/goldfarbas/Dignity/wiki) to learn and share information about different approaches to solving these problems.
 
