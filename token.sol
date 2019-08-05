@@ -22,12 +22,13 @@ contract DignityToken is ERC20Interface {
     uint8 public decimals = 2;
     // 18 decimals is the strongly suggested default, avoid changing it
     uint256 public totalSupply;
-    uint256 public claimAmount;
+    uint256 public claimAmount = 100;
+    uint256 public claimMinTime = 86400 * 10; // (milliseconds in a day times 10 days)
 
     // This creates an array with all balances
     mapping (address => uint256) public balanceOf;
     mapping (address => mapping (address => uint256)) public allowance;
-    mapping (address => uint256) public claims;
+    mapping (address => uint256) public claims; //map user address to last claim date
 
     // This generates a public event on the blockchain that will notify clients
     event Transfer(address indexed from, address indexed to, uint256 value);
@@ -49,16 +50,12 @@ contract DignityToken is ERC20Interface {
 
     function claim() public returns(bool success){
 
-      //Check claims
-
-
-
-    }
-
-    function _mint() internal {
-      //increase total supply
+      uint256 lastClaimDate = claims[msg.sender];
+      require(now - lastClaimDate >= claimMinTime);
+      balanceOf[msg.sender] = balanceOf[msg.sender].add(claimAmount);
       totalSupply = totalSupply.add(claimAmount);
-      balanceOf[msg.sender] = claimAmount;
+      return true;
+
     }
 
     /**
